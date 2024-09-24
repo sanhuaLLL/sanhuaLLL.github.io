@@ -1,4 +1,12 @@
-# Liu Jinlin
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+# Zhang San
 
 **Title**: Undergrad student  
 **Institution**: Huazhong University of Science and Technology  
@@ -34,7 +42,7 @@ Welcome to my GitHub profile! I am currently pursuing my studies at Huazhong Uni
 
 Feel free to reach out via email or check out my LinkedIn profile:
 
-- **Email**: jinlinliu@hust.edu.cn
+- **Email**:   jinlinliu@hust.edu.cn
 
 ---
 
@@ -48,8 +56,9 @@ Feel free to reach out via email or check out my LinkedIn profile:
 
 ## Contributions
 
-I enjoy collaborating on open-source projects. 
+I enjoy collaborating on open-source projects.
 
 ---
 
 Thank you for visiting my GitHub profile!
+
