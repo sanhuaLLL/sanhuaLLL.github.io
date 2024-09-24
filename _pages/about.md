@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Zhang San
+# Liu Jinlin
 
 **Title**: Undergrad student  
 **Institution**: Huazhong University of Science and Technology  
